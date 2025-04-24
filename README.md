@@ -1,21 +1,23 @@
-# Show Password App (Java Swing)
+# Java Swing Login Page
 
-This is a simple Java Swing application that demonstrates how to use a `JPasswordField` along with a **Show Password** button. When the button is clicked, it displays the entered password in a label.
+This is a simple **Java Swing-based GUI Login Page** application. It allows users to enter a username and password, and validates the credentials using basic `if-else` logic.
 
 ## 🚀 Features
 
-- GUI built using Java Swing
-- Show/Reveal password on button click
-- Clean and beginner-friendly code
+- User-friendly login interface
+- Password masking using `JPasswordField`
+- Show/Hide password functionality (optional)
+- Basic validation using hardcoded username and password
+- Java Swing-based GUI, works in NetBeans
 
 ## 🛠️ Tech Stack
 
 - Java (JDK 8+)
 - NetBeans IDE (or any Java IDE)
-- Swing (GUI framework)
+- Java Swing (for GUI)
 
 ## 💻 How to Run
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/your-username/login-page-java.git
