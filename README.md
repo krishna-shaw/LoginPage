@@ -20,4 +20,4 @@ This is a simple **Java Swing-based GUI Login Page** application. It allows user
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/krishna-shaw/LoginPage.git
+   https://github.com/krishna-shaw/LoginPage.git
